@@ -26,3 +26,16 @@
     color: white;
     margin-left: 10px;
 }
+
+.email{
+    color: aqua;
+}
+
+.intro{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.theme{
+    color: rgb(62, 59, 211);
+}
