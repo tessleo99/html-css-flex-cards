@@ -5,17 +5,21 @@
 }
 
 .container-cards{
-    display: flex
-    width: 80%;
-    margin: auto;
-    flex-wrap: wrap;
+     width: 80%;
+     margin: auto;
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-between;
 }
 
 .cards{
     display: flex;
     background-color: black;
     height: 80px;
-    width: 30%;
+    width: 25%;
+    margin: 20px;
+    align-items: center;
+    min-width: 300px;
 }
 
 .info{
